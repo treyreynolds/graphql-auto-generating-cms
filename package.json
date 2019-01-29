@@ -48,7 +48,7 @@
     "promise-polyfill": "^6.0.2",
     "@revall/react-markmirror": "^0.4.17",
     "react-test-renderer": "^15.6.1",
-    "semantic-ui-react": "^0.61.1",
+    "semantic-ui-react": "^0.84.0",
     "util": "^0.10.3",
     "whatwg-fetch": "^2.0.2"
   },
